@@ -1,0 +1,14 @@
+/home/jonathan/Documents/Code/OODCode/2/Employee/bin/Debug/net8.0/Employee
+/home/jonathan/Documents/Code/OODCode/2/Employee/bin/Debug/net8.0/Employee.deps.json
+/home/jonathan/Documents/Code/OODCode/2/Employee/bin/Debug/net8.0/Employee.runtimeconfig.json
+/home/jonathan/Documents/Code/OODCode/2/Employee/bin/Debug/net8.0/Employee.dll
+/home/jonathan/Documents/Code/OODCode/2/Employee/bin/Debug/net8.0/Employee.pdb
+/home/jonathan/Documents/Code/OODCode/2/Employee/obj/Debug/net8.0/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/OODCode/2/Employee/obj/Debug/net8.0/Employee.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/OODCode/2/Employee/obj/Debug/net8.0/Employee.AssemblyInfo.cs
+/home/jonathan/Documents/Code/OODCode/2/Employee/obj/Debug/net8.0/Employee.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/OODCode/2/Employee/obj/Debug/net8.0/Employee.dll
+/home/jonathan/Documents/Code/OODCode/2/Employee/obj/Debug/net8.0/refint/Employee.dll
+/home/jonathan/Documents/Code/OODCode/2/Employee/obj/Debug/net8.0/Employee.pdb
+/home/jonathan/Documents/Code/OODCode/2/Employee/obj/Debug/net8.0/Employee.genruntimeconfig.cache
+/home/jonathan/Documents/Code/OODCode/2/Employee/obj/Debug/net8.0/ref/Employee.dll

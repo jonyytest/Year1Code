@@ -1,0 +1,14 @@
+/home/jonathan/Documents/Code/OODCode/DoCasting/bin/Debug/net8.0/DoCasting
+/home/jonathan/Documents/Code/OODCode/DoCasting/bin/Debug/net8.0/DoCasting.deps.json
+/home/jonathan/Documents/Code/OODCode/DoCasting/bin/Debug/net8.0/DoCasting.runtimeconfig.json
+/home/jonathan/Documents/Code/OODCode/DoCasting/bin/Debug/net8.0/DoCasting.dll
+/home/jonathan/Documents/Code/OODCode/DoCasting/bin/Debug/net8.0/DoCasting.pdb
+/home/jonathan/Documents/Code/OODCode/DoCasting/obj/Debug/net8.0/DoCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/OODCode/DoCasting/obj/Debug/net8.0/DoCasting.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/OODCode/DoCasting/obj/Debug/net8.0/DoCasting.AssemblyInfo.cs
+/home/jonathan/Documents/Code/OODCode/DoCasting/obj/Debug/net8.0/DoCasting.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/OODCode/DoCasting/obj/Debug/net8.0/DoCasting.dll
+/home/jonathan/Documents/Code/OODCode/DoCasting/obj/Debug/net8.0/refint/DoCasting.dll
+/home/jonathan/Documents/Code/OODCode/DoCasting/obj/Debug/net8.0/DoCasting.pdb
+/home/jonathan/Documents/Code/OODCode/DoCasting/obj/Debug/net8.0/DoCasting.genruntimeconfig.cache
+/home/jonathan/Documents/Code/OODCode/DoCasting/obj/Debug/net8.0/ref/DoCasting.dll

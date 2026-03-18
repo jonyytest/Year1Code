@@ -1,0 +1,14 @@
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/obj/Debug/net8.0/MobileProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/obj/Debug/net8.0/MobileProgram.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/obj/Debug/net8.0/MobileProgram.AssemblyInfo.cs
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/obj/Debug/net8.0/MobileProgram.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/bin/Debug/net8.0/MobileProgram
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/bin/Debug/net8.0/MobileProgram.deps.json
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/bin/Debug/net8.0/MobileProgram.runtimeconfig.json
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/bin/Debug/net8.0/MobileProgram.dll
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/bin/Debug/net8.0/MobileProgram.pdb
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/obj/Debug/net8.0/MobileProgram.dll
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/obj/Debug/net8.0/refint/MobileProgram.dll
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/obj/Debug/net8.0/MobileProgram.pdb
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/obj/Debug/net8.0/MobileProgram.genruntimeconfig.cache
+/home/jonathan/Documents/Code/OODCode/2/MobileProgram/obj/Debug/net8.0/ref/MobileProgram.dll

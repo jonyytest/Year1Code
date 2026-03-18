@@ -1,0 +1,14 @@
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/bin/Debug/net8.0/DivisibleFour
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/bin/Debug/net8.0/DivisibleFour.deps.json
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/bin/Debug/net8.0/DivisibleFour.runtimeconfig.json
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/bin/Debug/net8.0/DivisibleFour.dll
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/bin/Debug/net8.0/DivisibleFour.pdb
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/obj/Debug/net8.0/DivisibleFour.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/obj/Debug/net8.0/DivisibleFour.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/obj/Debug/net8.0/DivisibleFour.AssemblyInfo.cs
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/obj/Debug/net8.0/DivisibleFour.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/obj/Debug/net8.0/DivisibleFour.dll
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/obj/Debug/net8.0/refint/DivisibleFour.dll
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/obj/Debug/net8.0/DivisibleFour.pdb
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/obj/Debug/net8.0/DivisibleFour.genruntimeconfig.cache
+/home/jonathan/Documents/Code/OODCode/1.2/DivisibleFour/obj/Debug/net8.0/ref/DivisibleFour.dll

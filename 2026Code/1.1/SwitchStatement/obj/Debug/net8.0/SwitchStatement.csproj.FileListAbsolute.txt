@@ -1,0 +1,14 @@
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/bin/Debug/net8.0/SwitchStatement
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/bin/Debug/net8.0/SwitchStatement.deps.json
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/bin/Debug/net8.0/SwitchStatement.runtimeconfig.json
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/bin/Debug/net8.0/SwitchStatement.dll
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/bin/Debug/net8.0/SwitchStatement.pdb
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/obj/Debug/net8.0/SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/obj/Debug/net8.0/SwitchStatement.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/obj/Debug/net8.0/SwitchStatement.AssemblyInfo.cs
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/obj/Debug/net8.0/SwitchStatement.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/obj/Debug/net8.0/SwitchStatement.dll
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/obj/Debug/net8.0/refint/SwitchStatement.dll
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/obj/Debug/net8.0/SwitchStatement.pdb
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/obj/Debug/net8.0/SwitchStatement.genruntimeconfig.cache
+/home/jonathan/Documents/Code/OODCode/SwitchStatement/obj/Debug/net8.0/ref/SwitchStatement.dll

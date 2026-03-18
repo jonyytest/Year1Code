@@ -1,0 +1,14 @@
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/obj/Debug/net8.0/GuessingNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/obj/Debug/net8.0/GuessingNumber.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/obj/Debug/net8.0/GuessingNumber.AssemblyInfo.cs
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/obj/Debug/net8.0/GuessingNumber.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/bin/Debug/net8.0/GuessingNumber
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/bin/Debug/net8.0/GuessingNumber.deps.json
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/bin/Debug/net8.0/GuessingNumber.runtimeconfig.json
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/bin/Debug/net8.0/GuessingNumber.dll
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/bin/Debug/net8.0/GuessingNumber.pdb
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/obj/Debug/net8.0/GuessingNumber.dll
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/obj/Debug/net8.0/refint/GuessingNumber.dll
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/obj/Debug/net8.0/GuessingNumber.pdb
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/obj/Debug/net8.0/GuessingNumber.genruntimeconfig.cache
+/home/jonathan/Documents/Code/OODCode/1.2/GuessingNumber/obj/Debug/net8.0/ref/GuessingNumber.dll

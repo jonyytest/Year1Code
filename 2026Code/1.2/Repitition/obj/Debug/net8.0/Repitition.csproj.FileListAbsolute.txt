@@ -1,0 +1,14 @@
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/bin/Debug/net8.0/Repitition
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/bin/Debug/net8.0/Repitition.deps.json
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/bin/Debug/net8.0/Repitition.runtimeconfig.json
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/bin/Debug/net8.0/Repitition.dll
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/bin/Debug/net8.0/Repitition.pdb
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/obj/Debug/net8.0/Repitition.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/obj/Debug/net8.0/Repitition.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/obj/Debug/net8.0/Repitition.AssemblyInfo.cs
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/obj/Debug/net8.0/Repitition.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/obj/Debug/net8.0/Repitition.dll
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/obj/Debug/net8.0/refint/Repitition.dll
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/obj/Debug/net8.0/Repitition.pdb
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/obj/Debug/net8.0/Repitition.genruntimeconfig.cache
+/home/jonathan/Documents/Code/OODCode/1.2/Repitition/obj/Debug/net8.0/ref/Repitition.dll
