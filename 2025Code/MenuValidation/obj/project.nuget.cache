@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JjdVwqzNYkXKvkjcQDFJkCHlNQfmceg3Of0sfJqqycyVq5QJUzcZ/aoE7GrCY+H5dgUVOBcJR55bzJ/W1Qlxg==",
+  "success": true,
+  "projectFilePath": "/home/jonathan/Documents/Code/MenuValidation/MenuValidation.csproj",
+  "expectedPackageFiles": [
+    "/home/jonathan/.nuget/packages/splashkit/1.2.11/splashkit.1.2.11.nupkg.sha512"
+  ],
+  "logs": []
+}

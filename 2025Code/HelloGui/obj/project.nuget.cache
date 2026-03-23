@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bB9xyR2NcrioHf81L0uO59wGU7AhPDBkHzaynshwd5RTTQMiHp69CLxQuC5ZFQ2xEq89pBFxdfVTFk9c6H/cJw==",
+  "success": true,
+  "projectFilePath": "/home/jonathan/Documents/Code/HelloGui/HelloGui.csproj",
+  "expectedPackageFiles": [
+    "/home/jonathan/.nuget/packages/splashkit/1.2.11/splashkit.1.2.11.nupkg.sha512"
+  ],
+  "logs": []
+}

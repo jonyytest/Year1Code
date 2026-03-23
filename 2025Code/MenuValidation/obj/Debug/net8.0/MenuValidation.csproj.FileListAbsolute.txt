@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/MenuValidation/bin/Debug/net8.0/MenuValidation
+/home/jonathan/Documents/Code/MenuValidation/bin/Debug/net8.0/MenuValidation.deps.json
+/home/jonathan/Documents/Code/MenuValidation/bin/Debug/net8.0/MenuValidation.runtimeconfig.json
+/home/jonathan/Documents/Code/MenuValidation/bin/Debug/net8.0/MenuValidation.dll
+/home/jonathan/Documents/Code/MenuValidation/bin/Debug/net8.0/MenuValidation.pdb
+/home/jonathan/Documents/Code/MenuValidation/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/MenuValidation.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/MenuValidation.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/MenuValidation.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/MenuValidation.AssemblyInfo.cs
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/MenuValidation.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/MenuValidation.csproj.CopyComplete
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/MenuValidation.dll
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/refint/MenuValidation.dll
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/MenuValidation.pdb
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/MenuValidation.genruntimeconfig.cache
+/home/jonathan/Documents/Code/MenuValidation/obj/Debug/net8.0/ref/MenuValidation.dll

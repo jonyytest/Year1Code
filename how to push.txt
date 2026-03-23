@@ -1,0 +1,24 @@
+Add all files:
+
+git add .
+
+Commit them:
+
+git commit -m "Add full project files"
+
+Push to GitHub:
+
+git push -u origin main
+
+
+to pull to current version
+
+git pull
+
+
+to get somewhere else
+
+cd ~/Documents/code   # or wherever you want the project locally
+git clone https://github.com/jonnytest/2026Code.git
+
+then push it back

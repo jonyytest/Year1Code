@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUx2DiU2VN+Pu0Aqw3srBjNWDRmy67BJzcFh2GJmDFlKA9oMX+uqNgFOD661VyNZFuhuOzSEXjxzzbMo8IpIJA==",
+  "success": true,
+  "projectFilePath": "/home/jonathan/Documents/Code/TravelCalculator/TravelCalculator.csproj",
+  "expectedPackageFiles": [
+    "/home/jonathan/.nuget/packages/splashkit/1.2.11/splashkit.1.2.11.nupkg.sha512"
+  ],
+  "logs": []
+}

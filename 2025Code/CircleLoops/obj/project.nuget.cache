@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWDZqChapXnqo8BQ5GszVaMK53IhePH6o1XzQFSwO83cMU/zvwMQz7rMI3S3sBMSY1jDMznIZLQz0YPJgephqQ==",
+  "success": true,
+  "projectFilePath": "/home/jonathan/Documents/Code/CircleLoops/CircleLoops.csproj",
+  "expectedPackageFiles": [
+    "/home/jonathan/.nuget/packages/splashkit/1.2.12/splashkit.1.2.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/SavingsCalculator/bin/Debug/net8.0/SavingsCalculator
+/home/jonathan/Documents/Code/SavingsCalculator/bin/Debug/net8.0/SavingsCalculator.deps.json
+/home/jonathan/Documents/Code/SavingsCalculator/bin/Debug/net8.0/SavingsCalculator.runtimeconfig.json
+/home/jonathan/Documents/Code/SavingsCalculator/bin/Debug/net8.0/SavingsCalculator.dll
+/home/jonathan/Documents/Code/SavingsCalculator/bin/Debug/net8.0/SavingsCalculator.pdb
+/home/jonathan/Documents/Code/SavingsCalculator/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/SavingsCalculator.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/SavingsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/SavingsCalculator.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/SavingsCalculator.AssemblyInfo.cs
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/SavingsCalculator.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/SavingsCalculator.csproj.CopyComplete
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/SavingsCalculator.dll
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/refint/SavingsCalculator.dll
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/SavingsCalculator.pdb
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/SavingsCalculator.genruntimeconfig.cache
+/home/jonathan/Documents/Code/SavingsCalculator/obj/Debug/net8.0/ref/SavingsCalculator.dll

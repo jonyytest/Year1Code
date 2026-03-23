@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/cXB0Uxl9a6on9gmGWUzyVe7X0n0Q8kDuDIBV6Hor8091++WTjdoh1jh3LKsjLnCSvLMaRFqDV+PgoP63TjqA==",
+  "success": true,
+  "projectFilePath": "/home/jonathan/Documents/Code/PlayerMove/PlayerMove.csproj",
+  "expectedPackageFiles": [
+    "/home/jonathan/.nuget/packages/splashkit/1.2.11/splashkit.1.2.11.nupkg.sha512"
+  ],
+  "logs": []
+}

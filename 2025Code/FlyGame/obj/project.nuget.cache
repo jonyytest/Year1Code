@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6MzYl+L6H+7D13Dg1o2KilQu3EXtsyyHkg65HvKjCRG72Q2ajHSGtkb3X5wSVcHCJgBT5ExBcg53kpEmaMNJQ==",
+  "success": true,
+  "projectFilePath": "/home/jonathan/Documents/Code/FlyGame/FlyGame.csproj",
+  "expectedPackageFiles": [
+    "/home/jonathan/.nuget/packages/splashkit/1.2.12/splashkit.1.2.12.nupkg.sha512"
+  ],
+  "logs": []
+}

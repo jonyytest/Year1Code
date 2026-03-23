@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/PlayerMove/bin/Debug/net8.0/PlayerMove
+/home/jonathan/Documents/Code/PlayerMove/bin/Debug/net8.0/PlayerMove.deps.json
+/home/jonathan/Documents/Code/PlayerMove/bin/Debug/net8.0/PlayerMove.runtimeconfig.json
+/home/jonathan/Documents/Code/PlayerMove/bin/Debug/net8.0/PlayerMove.dll
+/home/jonathan/Documents/Code/PlayerMove/bin/Debug/net8.0/PlayerMove.pdb
+/home/jonathan/Documents/Code/PlayerMove/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/PlayerMove.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/PlayerMove.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/PlayerMove.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/PlayerMove.AssemblyInfo.cs
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/PlayerMove.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/PlayerMove.csproj.CopyComplete
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/PlayerMove.dll
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/refint/PlayerMove.dll
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/PlayerMove.pdb
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/PlayerMove.genruntimeconfig.cache
+/home/jonathan/Documents/Code/PlayerMove/obj/Debug/net8.0/ref/PlayerMove.dll

@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/FlyGame/bin/Debug/net8.0/FlyGame
+/home/jonathan/Documents/Code/FlyGame/bin/Debug/net8.0/FlyGame.deps.json
+/home/jonathan/Documents/Code/FlyGame/bin/Debug/net8.0/FlyGame.runtimeconfig.json
+/home/jonathan/Documents/Code/FlyGame/bin/Debug/net8.0/FlyGame.dll
+/home/jonathan/Documents/Code/FlyGame/bin/Debug/net8.0/FlyGame.pdb
+/home/jonathan/Documents/Code/FlyGame/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/FlyGame.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/FlyGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/FlyGame.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/FlyGame.AssemblyInfo.cs
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/FlyGame.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/FlyGame.csproj.CopyComplete
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/FlyGame.dll
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/refint/FlyGame.dll
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/FlyGame.pdb
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/FlyGame.genruntimeconfig.cache
+/home/jonathan/Documents/Code/FlyGame/obj/Debug/net8.0/ref/FlyGame.dll

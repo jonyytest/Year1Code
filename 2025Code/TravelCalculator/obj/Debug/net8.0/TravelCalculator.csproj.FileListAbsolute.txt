@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/TravelCalculator/bin/Debug/net8.0/TravelCalculator
+/home/jonathan/Documents/Code/TravelCalculator/bin/Debug/net8.0/TravelCalculator.deps.json
+/home/jonathan/Documents/Code/TravelCalculator/bin/Debug/net8.0/TravelCalculator.runtimeconfig.json
+/home/jonathan/Documents/Code/TravelCalculator/bin/Debug/net8.0/TravelCalculator.dll
+/home/jonathan/Documents/Code/TravelCalculator/bin/Debug/net8.0/TravelCalculator.pdb
+/home/jonathan/Documents/Code/TravelCalculator/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/TravelCalculator.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/TravelCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/TravelCalculator.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/TravelCalculator.AssemblyInfo.cs
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/TravelCalculator.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/TravelCalculator.csproj.CopyComplete
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/TravelCalculator.dll
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/refint/TravelCalculator.dll
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/TravelCalculator.pdb
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/TravelCalculator.genruntimeconfig.cache
+/home/jonathan/Documents/Code/TravelCalculator/obj/Debug/net8.0/ref/TravelCalculator.dll

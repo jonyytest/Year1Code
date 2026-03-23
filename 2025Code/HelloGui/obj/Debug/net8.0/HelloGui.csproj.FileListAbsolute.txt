@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/HelloGui/bin/Debug/net8.0/HelloGui
+/home/jonathan/Documents/Code/HelloGui/bin/Debug/net8.0/HelloGui.deps.json
+/home/jonathan/Documents/Code/HelloGui/bin/Debug/net8.0/HelloGui.runtimeconfig.json
+/home/jonathan/Documents/Code/HelloGui/bin/Debug/net8.0/HelloGui.dll
+/home/jonathan/Documents/Code/HelloGui/bin/Debug/net8.0/HelloGui.pdb
+/home/jonathan/Documents/Code/HelloGui/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/HelloGui.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/HelloGui.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/HelloGui.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/HelloGui.AssemblyInfo.cs
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/HelloGui.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/HelloGui.csproj.CopyComplete
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/HelloGui.dll
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/refint/HelloGui.dll
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/HelloGui.pdb
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/HelloGui.genruntimeconfig.cache
+/home/jonathan/Documents/Code/HelloGui/obj/Debug/net8.0/ref/HelloGui.dll

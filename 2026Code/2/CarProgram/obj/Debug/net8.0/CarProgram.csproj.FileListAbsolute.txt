@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/2/CarProgram/bin/Debug/net8.0/CarProgram
+/home/jonathan/Documents/code/2026Code/2/CarProgram/bin/Debug/net8.0/CarProgram.deps.json
+/home/jonathan/Documents/code/2026Code/2/CarProgram/bin/Debug/net8.0/CarProgram.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/2/CarProgram/bin/Debug/net8.0/CarProgram.dll
+/home/jonathan/Documents/code/2026Code/2/CarProgram/bin/Debug/net8.0/CarProgram.pdb
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/CarProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/CarProgram.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/CarProgram.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/CarProgram.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/CarProgram.sourcelink.json
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/CarProgram.dll
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/refint/CarProgram.dll
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/CarProgram.pdb
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/CarProgram.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/Debug/net8.0/ref/CarProgram.dll

@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/LightSim/bin/Debug/net8.0/LightSim
+/home/jonathan/Documents/Code/LightSim/bin/Debug/net8.0/LightSim.deps.json
+/home/jonathan/Documents/Code/LightSim/bin/Debug/net8.0/LightSim.runtimeconfig.json
+/home/jonathan/Documents/Code/LightSim/bin/Debug/net8.0/LightSim.dll
+/home/jonathan/Documents/Code/LightSim/bin/Debug/net8.0/LightSim.pdb
+/home/jonathan/Documents/Code/LightSim/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/LightSim.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/LightSim.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/LightSim.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/LightSim.AssemblyInfo.cs
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/LightSim.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/LightSim.csproj.CopyComplete
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/LightSim.dll
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/refint/LightSim.dll
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/LightSim.pdb
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/LightSim.genruntimeconfig.cache
+/home/jonathan/Documents/Code/LightSim/obj/Debug/net8.0/ref/LightSim.dll

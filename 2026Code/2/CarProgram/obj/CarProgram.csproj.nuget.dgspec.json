@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jonathan/Documents/Code/OODCode/2/CarProgram/CarProgram.csproj": {}
+    "/home/jonathan/Documents/code/2026Code/2/CarProgram/CarProgram.csproj": {}
   },
   "projects": {
-    "/home/jonathan/Documents/Code/OODCode/2/CarProgram/CarProgram.csproj": {
+    "/home/jonathan/Documents/code/2026Code/2/CarProgram/CarProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jonathan/Documents/Code/OODCode/2/CarProgram/CarProgram.csproj",
+        "projectUniqueName": "/home/jonathan/Documents/code/2026Code/2/CarProgram/CarProgram.csproj",
         "projectName": "CarProgram",
-        "projectPath": "/home/jonathan/Documents/Code/OODCode/2/CarProgram/CarProgram.csproj",
+        "projectPath": "/home/jonathan/Documents/code/2026Code/2/CarProgram/CarProgram.csproj",
         "packagesPath": "/home/jonathan/.nuget/packages/",
-        "outputPath": "/home/jonathan/Documents/Code/OODCode/2/CarProgram/obj/",
+        "outputPath": "/home/jonathan/Documents/code/2026Code/2/CarProgram/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jonathan/.nuget/NuGet/NuGet.Config"

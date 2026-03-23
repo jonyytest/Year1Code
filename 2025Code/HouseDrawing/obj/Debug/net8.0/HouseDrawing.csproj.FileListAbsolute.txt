@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/HouseDrawing/bin/Debug/net8.0/HouseDrawing
+/home/jonathan/Documents/Code/HouseDrawing/bin/Debug/net8.0/HouseDrawing.deps.json
+/home/jonathan/Documents/Code/HouseDrawing/bin/Debug/net8.0/HouseDrawing.runtimeconfig.json
+/home/jonathan/Documents/Code/HouseDrawing/bin/Debug/net8.0/HouseDrawing.dll
+/home/jonathan/Documents/Code/HouseDrawing/bin/Debug/net8.0/HouseDrawing.pdb
+/home/jonathan/Documents/Code/HouseDrawing/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/HouseDrawing.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/HouseDrawing.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/HouseDrawing.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/HouseDrawing.AssemblyInfo.cs
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/HouseDrawing.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/HouseDrawing.csproj.CopyComplete
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/HouseDrawing.dll
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/refint/HouseDrawing.dll
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/HouseDrawing.pdb
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/HouseDrawing.genruntimeconfig.cache
+/home/jonathan/Documents/Code/HouseDrawing/obj/Debug/net8.0/ref/HouseDrawing.dll

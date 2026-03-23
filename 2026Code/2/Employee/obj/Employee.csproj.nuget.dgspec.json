@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jonathan/Documents/Code/OODCode/2/Employee/Employee.csproj": {}
+    "/home/jonathan/Documents/code/2026Code/2/Employee/Employee.csproj": {}
   },
   "projects": {
-    "/home/jonathan/Documents/Code/OODCode/2/Employee/Employee.csproj": {
+    "/home/jonathan/Documents/code/2026Code/2/Employee/Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jonathan/Documents/Code/OODCode/2/Employee/Employee.csproj",
+        "projectUniqueName": "/home/jonathan/Documents/code/2026Code/2/Employee/Employee.csproj",
         "projectName": "Employee",
-        "projectPath": "/home/jonathan/Documents/Code/OODCode/2/Employee/Employee.csproj",
+        "projectPath": "/home/jonathan/Documents/code/2026Code/2/Employee/Employee.csproj",
         "packagesPath": "/home/jonathan/.nuget/packages/",
-        "outputPath": "/home/jonathan/Documents/Code/OODCode/2/Employee/obj/",
+        "outputPath": "/home/jonathan/Documents/code/2026Code/2/Employee/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jonathan/.nuget/NuGet/NuGet.Config"

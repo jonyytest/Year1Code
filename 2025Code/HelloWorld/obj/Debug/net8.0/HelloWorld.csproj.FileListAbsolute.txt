@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/jonathan/Documents/Code/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/jonathan/Documents/Code/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/jonathan/Documents/Code/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/jonathan/Documents/Code/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/jonathan/Documents/Code/HelloWorld/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
+/home/jonathan/Documents/Code/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CopyComplete

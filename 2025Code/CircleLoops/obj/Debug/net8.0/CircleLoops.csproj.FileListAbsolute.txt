@@ -1,0 +1,17 @@
+/home/jonathan/Documents/Code/CircleLoops/bin/Debug/net8.0/CircleLoops
+/home/jonathan/Documents/Code/CircleLoops/bin/Debug/net8.0/CircleLoops.deps.json
+/home/jonathan/Documents/Code/CircleLoops/bin/Debug/net8.0/CircleLoops.runtimeconfig.json
+/home/jonathan/Documents/Code/CircleLoops/bin/Debug/net8.0/CircleLoops.dll
+/home/jonathan/Documents/Code/CircleLoops/bin/Debug/net8.0/CircleLoops.pdb
+/home/jonathan/Documents/Code/CircleLoops/bin/Debug/net8.0/SplashKitSDK.dll
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/CircleLoops.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/CircleLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/CircleLoops.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/CircleLoops.AssemblyInfo.cs
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/CircleLoops.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/CircleLoops.csproj.CopyComplete
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/CircleLoops.dll
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/refint/CircleLoops.dll
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/CircleLoops.pdb
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/CircleLoops.genruntimeconfig.cache
+/home/jonathan/Documents/Code/CircleLoops/obj/Debug/net8.0/ref/CircleLoops.dll
