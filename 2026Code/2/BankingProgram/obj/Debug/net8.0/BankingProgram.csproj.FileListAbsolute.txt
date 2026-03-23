@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/BankingProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/BankingProgram.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/BankingProgram.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/BankingProgram.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/BankingProgram.sourcelink.json
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/bin/Debug/net8.0/BankingProgram
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/bin/Debug/net8.0/BankingProgram.deps.json
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/bin/Debug/net8.0/BankingProgram.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/bin/Debug/net8.0/BankingProgram.dll
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/bin/Debug/net8.0/BankingProgram.pdb
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/BankingProgram.dll
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/refint/BankingProgram.dll
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/BankingProgram.pdb
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/BankingProgram.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/2/BankingProgram/obj/Debug/net8.0/ref/BankingProgram.dll
