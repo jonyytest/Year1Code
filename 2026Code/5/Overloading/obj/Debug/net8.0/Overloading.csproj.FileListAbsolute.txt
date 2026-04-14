@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/5/Overloading/bin/Debug/net8.0/Overloading
+/home/jonathan/Documents/code/2026Code/5/Overloading/bin/Debug/net8.0/Overloading.deps.json
+/home/jonathan/Documents/code/2026Code/5/Overloading/bin/Debug/net8.0/Overloading.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/5/Overloading/bin/Debug/net8.0/Overloading.dll
+/home/jonathan/Documents/code/2026Code/5/Overloading/bin/Debug/net8.0/Overloading.pdb
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/Overloading.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/Overloading.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/Overloading.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/Overloading.sourcelink.json
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/Overloading.dll
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/refint/Overloading.dll
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/Overloading.pdb
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/Overloading.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/5/Overloading/obj/Debug/net8.0/ref/Overloading.dll

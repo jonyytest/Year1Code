@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/5/Test/bin/Debug/net8.0/Test
+/home/jonathan/Documents/code/2026Code/5/Test/bin/Debug/net8.0/Test.deps.json
+/home/jonathan/Documents/code/2026Code/5/Test/bin/Debug/net8.0/Test.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/5/Test/bin/Debug/net8.0/Test.dll
+/home/jonathan/Documents/code/2026Code/5/Test/bin/Debug/net8.0/Test.pdb
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/Test.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/Test.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/Test.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/Test.sourcelink.json
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/Test.dll
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/refint/Test.dll
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/Test.pdb
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/Test.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/5/Test/obj/Debug/net8.0/ref/Test.dll

@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/bin/Debug/net8.0/ZooParkFixed
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/bin/Debug/net8.0/ZooParkFixed.deps.json
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/bin/Debug/net8.0/ZooParkFixed.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/bin/Debug/net8.0/ZooParkFixed.dll
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/bin/Debug/net8.0/ZooParkFixed.pdb
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/ZooParkFixed.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/ZooParkFixed.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/ZooParkFixed.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/ZooParkFixed.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/ZooParkFixed.sourcelink.json
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/ZooParkFixed.dll
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/refint/ZooParkFixed.dll
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/ZooParkFixed.pdb
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/ZooParkFixed.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/5/ZooParkFixed/obj/Debug/net8.0/ref/ZooParkFixed.dll

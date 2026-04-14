@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/3/Polynomial/bin/Debug/net8.0/Polynomial
+/home/jonathan/Documents/code/2026Code/3/Polynomial/bin/Debug/net8.0/Polynomial.deps.json
+/home/jonathan/Documents/code/2026Code/3/Polynomial/bin/Debug/net8.0/Polynomial.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/3/Polynomial/bin/Debug/net8.0/Polynomial.dll
+/home/jonathan/Documents/code/2026Code/3/Polynomial/bin/Debug/net8.0/Polynomial.pdb
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/Polynomial.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/Polynomial.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/Polynomial.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/Polynomial.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/Polynomial.sourcelink.json
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/Polynomial.dll
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/refint/Polynomial.dll
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/Polynomial.pdb
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/Polynomial.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/3/Polynomial/obj/Debug/net8.0/ref/Polynomial.dll
