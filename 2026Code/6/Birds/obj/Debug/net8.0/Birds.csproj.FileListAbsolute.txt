@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/Birds.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/Birds.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/Birds.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/Birds.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/Birds.sourcelink.json
+/home/jonathan/Documents/code/2026Code/6/Birds/bin/Debug/net8.0/Birds
+/home/jonathan/Documents/code/2026Code/6/Birds/bin/Debug/net8.0/Birds.deps.json
+/home/jonathan/Documents/code/2026Code/6/Birds/bin/Debug/net8.0/Birds.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/6/Birds/bin/Debug/net8.0/Birds.dll
+/home/jonathan/Documents/code/2026Code/6/Birds/bin/Debug/net8.0/Birds.pdb
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/Birds.dll
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/refint/Birds.dll
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/Birds.pdb
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/Birds.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/6/Birds/obj/Debug/net8.0/ref/Birds.dll

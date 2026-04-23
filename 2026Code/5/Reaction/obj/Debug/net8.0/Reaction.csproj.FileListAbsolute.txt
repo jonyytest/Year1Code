@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/5/Reaction/bin/Debug/net8.0/Reaction
+/home/jonathan/Documents/code/2026Code/5/Reaction/bin/Debug/net8.0/Reaction.deps.json
+/home/jonathan/Documents/code/2026Code/5/Reaction/bin/Debug/net8.0/Reaction.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/5/Reaction/bin/Debug/net8.0/Reaction.dll
+/home/jonathan/Documents/code/2026Code/5/Reaction/bin/Debug/net8.0/Reaction.pdb
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/Reaction.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/Reaction.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/Reaction.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/Reaction.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/Reaction.sourcelink.json
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/Reaction.dll
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/refint/Reaction.dll
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/Reaction.pdb
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/Reaction.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/5/Reaction/obj/Debug/net8.0/ref/Reaction.dll

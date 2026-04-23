@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/bin/Debug/net8.0/ReactionTest
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/bin/Debug/net8.0/ReactionTest.deps.json
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/bin/Debug/net8.0/ReactionTest.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/bin/Debug/net8.0/ReactionTest.dll
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/bin/Debug/net8.0/ReactionTest.pdb
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/ReactionTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/ReactionTest.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/ReactionTest.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/ReactionTest.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/ReactionTest.sourcelink.json
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/ReactionTest.dll
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/refint/ReactionTest.dll
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/ReactionTest.pdb
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/ReactionTest.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/5/ReactionTest/obj/Debug/net8.0/ref/ReactionTest.dll

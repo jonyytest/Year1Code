@@ -1,0 +1,15 @@
+/home/jonathan/Documents/code/2026Code/4/4.2/bin/Debug/net8.0/4.2
+/home/jonathan/Documents/code/2026Code/4/4.2/bin/Debug/net8.0/4.2.deps.json
+/home/jonathan/Documents/code/2026Code/4/4.2/bin/Debug/net8.0/4.2.runtimeconfig.json
+/home/jonathan/Documents/code/2026Code/4/4.2/bin/Debug/net8.0/4.2.dll
+/home/jonathan/Documents/code/2026Code/4/4.2/bin/Debug/net8.0/4.2.pdb
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/4.2.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/4.2.AssemblyInfoInputs.cache
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/4.2.AssemblyInfo.cs
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/4.2.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/4.2.sourcelink.json
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/4.2.dll
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/refint/4.2.dll
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/4.2.pdb
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/4.2.genruntimeconfig.cache
+/home/jonathan/Documents/code/2026Code/4/4.2/obj/Debug/net8.0/ref/4.2.dll
